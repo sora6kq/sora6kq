@@ -1,7 +1,7 @@
 <img align="left" src="https://c.tenor.com/fBOhx_wbz1kAAAAC/yawn-tired.gif" width="260">
 
 ```rust
-~ > fetch.sh
+~ % fetch.sh
 
 github.com/sora6kq
 ------------------------------
