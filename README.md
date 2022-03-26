@@ -6,7 +6,7 @@
 github.com/sora6kq
 ------------------------------
 os      - arch
-wm      - sway
+de      - kde-plasma
 langs   - C,sh
 repos   - 2
 ```
