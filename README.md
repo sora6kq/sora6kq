@@ -2,6 +2,7 @@
 ~ $ ./fetch.sh
 
 usr     - sora6kq
-os      - arch-linux
-langs   - C,sh
+host    - github
+repos   - 4
+langs   - shell,C
 ```
