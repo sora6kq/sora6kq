@@ -1,10 +1,7 @@
 ```rust
-~ % fetch.sh
+~ $ ./fetch.sh
 
-github.com/sora6kq
-------------------------------
-os      - arch
-de      - kde-plasma
+usr     - sora6kq
+os      - arch-linux
 langs   - C,sh
-repos   - 5
 ```
