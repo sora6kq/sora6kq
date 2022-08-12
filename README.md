@@ -1,4 +1,4 @@
-```rust
+```
 ~ $ ./fetch.sh
 
 usr     - sora6kq
